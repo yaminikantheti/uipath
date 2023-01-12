@@ -1,0 +1,30 @@
+Invoice Template :: Free Printable Invoice :: Skynova.com https://www.skynova.com/template/invoice
+
+From
+Your Name
+I N V O I C E
+
+Your address
+
+To
+Customer name
+
+Customer address Invoice # 0000001
+Invoice Date 01/11/2023 
+Due Date 01/11/2023 
+
+Item Description Unit Price Quantity Amount
+  0.00 0.00 0.00
+  0.00 0.00 0.00
+
+New Line
+
+Notes
+Subtotal 0.00
+
+Total 0.00
+Amount Paid 0.00
+
+Balance Due $0.00
+
+1 of 1 11-01-2023, 11:18
